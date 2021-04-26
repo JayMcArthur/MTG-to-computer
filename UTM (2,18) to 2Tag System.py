@@ -1,17 +1,5 @@
 import time
 
-
-
-
-
-
-
-
-
-
-
-
-
 # Creates Rogozhin's (2,18) UTM and sets up the states translations for a 2-Tag System
 states = [None,None]
 states[0] = {
